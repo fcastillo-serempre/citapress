@@ -27,5 +27,8 @@
   },
   "dependenciesComments": {
     "yargs-parser": "Vulnerability in 5.0.0, as advised by Github Dependabot alerts. From gulp@4.0.2."
+  },
+  "dependencies": {
+    "netlify-cms-app": "^2.15.72"
   }
 }
